@@ -23,17 +23,3 @@ elif operation == 5:
 
 else:
     print("invalid operation")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
